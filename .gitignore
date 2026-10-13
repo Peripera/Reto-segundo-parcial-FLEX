@@ -1,3 +1,7 @@
 .vscode
 .venv
 /Datos/**
+# Checkpoints y resultados de entrenamiento
+results_beto/
+results_beto_smoothed/
+results_beto_weighted/
